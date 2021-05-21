@@ -26,7 +26,7 @@ setup(
     url="https://github.com/maxibor/pydamage",
     long_description_content_type="text/markdown",
     license="GNU-GPLv3",
-    python_requires=">=3.6",
+    python_requires="3.6.1",
     install_requires=[
         "click",
         "numpy",
